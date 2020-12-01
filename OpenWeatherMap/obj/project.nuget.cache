@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dvcR9EYOtX+Bd8rN9xULa50qZhEO0MWVI+qPXEottlH76Zh22lyUWvBNUg5Sx5g6v4yg9JwEb7dvyOaA/C82Ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\The Hagoods\\Desktop\\repos\\OpenWeatherMap\\OpenWeatherMap\\OpenWeatherMap\\OpenWeatherMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Hagoods\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
